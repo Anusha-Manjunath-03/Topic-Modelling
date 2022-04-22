@@ -35,3 +35,6 @@ Libraries to be installed before running the notebook:
 
 Run all the cells of the downloaded notebook to obtain the dominant
 topic for each complaint.
+
+
+![image](https://user-images.githubusercontent.com/56243327/164766433-6e694f7c-1868-4b8f-af94-961f02cdd4a5.png)
